@@ -1,7 +1,5 @@
 # Streamlit Password Strength Meter
 
-![Password Strength Meter](https://source.unsplash.com/random/800x400/?security,password)
-
 ## 🔒 About the Project
 This is an interactive **Password Strength Meter** built using **Streamlit**. The application helps users evaluate the strength of their passwords and provides useful suggestions for improving password security.
 
